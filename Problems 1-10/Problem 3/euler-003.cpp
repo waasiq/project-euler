@@ -4,8 +4,8 @@
 //
 // # Algorithm
 // Checking for the prime factors until number. If a prime factor is found divide the number with the prime factor.
-// The reason for i*i here is to speed up the process because if a number N a prime factor larger than square of N 
-//, then it surely has a prime factor smaller than square of N.
+// The reason for i*i here is to speed up the process.
+// If a number is not prime it will have at least one divisor below (or equal to) the square root and one above (or equal to) .
 
 #include <iostream>
 

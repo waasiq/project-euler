@@ -4,7 +4,7 @@
 //
 // # Algorithm
 // Calculating prime numbers until range and adding them to sum. j*j is for optimization as explained in 
-// problems before. If there is a prime factor below sqrt then there is a prime factor above sqrt.
+// problems before.
 
 #include <iostream>
 

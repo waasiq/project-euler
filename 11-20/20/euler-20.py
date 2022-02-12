@@ -1,8 +1,8 @@
-import math
 
 #! Author: Waasiq Masood
 #! Date: 2 - Feb - 2022
 
+import math
 
 def main():
     fact = str(math.factorial(100))
